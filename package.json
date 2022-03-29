@@ -1,0 +1,22 @@
+{
+  "name": "simple-ms.convert",
+  "version": "0.0.5",
+  "description": "A milisecond convert!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elo1lson/ms-convert.git"
+  },
+  "keywords": [
+    "parse-ms"
+  ],
+  "author": "elo1lson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elo1lson/ms-convert/issues"
+  },
+  "homepage": "https://github.com/elo1lson/ms-convert#readme"
+}
